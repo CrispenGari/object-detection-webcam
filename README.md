@@ -1,3 +1,40 @@
+# What is this?
+
+This is a simple Machine learning React app that detects objects in real time using a pre-trained model from tensorflow. This app is cappable of detecting objects like:
+
+* people
+* cell phones
+* wine glass
+* dogs
+* cats
+* #### etc
+
+## This app is using
+
+* Material-ui icons
+* React WebCam
+* Tensorflow
+
+## Installation of required dependencies
+
+### Installation of the material ui library
+```
+$ npm install @material-ui/icons @material-ui/core
+```
+
+### Installation of React WebCam
+
+```
+$ npm i react-webcam
+```
+
+### Installation of tensorflow and the pretrained model for object detection
+
+```
+$ npm i @tensorflow/tfjs  @tensorflow-models/coco-ssd
+```
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
