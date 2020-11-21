@@ -1,13 +1,13 @@
 # What is this?
 
-This is a simple Machine learning React app that detects objects in real time using a pre-trained model from tensorflow. This app is cappable of detecting objects like:
+This is a simple Machine learning React app that detects objects from a web camera in real time using a pre-trained model from tensorflow. This app is cappable of detecting objects like:
 
 * people
 * cell phones
 * wine glass
 * dogs
 * cats
-* #### etc
+* etc
 
 ## This app is using
 
